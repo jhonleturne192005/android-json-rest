@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellowC">#FF9800</color>
+
+    <!--background cardview-->
+    <color name="backgroundC">#FFC310</color>
+
+    <!--Background application-->
+    <color name="background">#BFEBA0</color>
+</resources>

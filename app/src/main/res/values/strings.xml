@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">APIRESTfulenformatoJSONenAndroid</string>
+
+    <string name="tittle">API RESTful en formato JSON</string>
+
+    <!-- datos de usuarios card view -->
+    <string name="name">Names:</string>
+    <string name="age">Age:</string>
+    <string name="user">User:</string>
+    <string name="AgeDate">Age Date:</string>
+    <string name="email">email:</string>
+    <!---->
+
+    <!-- results -->
+    <string name="id">Id:</string>
+    <string name="firstName">firstName:</string>
+    <string name="lastName">lastName:</string>
+    <string name="maidenName">maidenName:</string>
+    <string name="gender">gender:</string>
+    <string name="phone">phone:</string>
+    <string name="username">username:</string>
+    <string name="password">password:</string>
+    <string name="birthDate">birthDate:</string>
+    <string name="bloodGroup">bloodGroup:</string>
+    <string name="height">height:</string>
+    <string name="weight">weight:</string>
+    <string name="eyeColor">eyeColor:</string>
+    <string name="hair">hair:</string>
+    <string name="color">color:</string>
+    <string name="type">type:</string>
+    <string name="domain">domain:</string>
+    <string name="ip">ip:</string>
+    <string name="address">address:</string>
+    <string name="city">city:</string>
+    <string name="coordinates">coordinates:</string>
+    <string name="lat">lat:</string>
+    <string name="lng">lng:</string>
+    <string name="postalCode">postalCode:</string>
+    <string name="state">state:</string>
+    <string name="macAddress">macAddress:</string>
+    <string name="university">university:</string>
+    <string name="bank">bank:</string>
+    <string name="cardExpire">cardExpire:</string>
+    <string name="cardNumber">cardNumber:</string>
+    <string name="cardType">cardType:</string>
+    <string name="currency">currency:</string>
+    <string name="iban">iban:</string>
+    <string name="company">company:</string>
+    <string name="department">department:</string>
+    <string name="title">title:</string>
+    <string name="ein">ein:</string>
+    <string name="ssn">ssn:</string>
+    <string name="userAgent">userAgent:</string>
+
+</resources>
