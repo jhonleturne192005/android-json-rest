@@ -1,4 +1,6 @@
-# android json rest
+# Android Json Rest
 
-<img src="images/img1.jpeg" alt="Pantalla principal" width="300" height="auto"/>
-<img src="images/img2.jpeg" alt="Resultados API" width="300" height="auto"/>
+<p float="left">
+    <img src="images/img1.jpeg" alt="Pantalla principal" width="45%" height="auto"/>
+    <img src="images/img2.jpeg" alt="Resultados API" width="45%" height="auto"/>
+</p>
